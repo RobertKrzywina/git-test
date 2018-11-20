@@ -17,6 +17,8 @@
 *This text will be italic* <br>
 _This text will be italic too_ <br>
 
+Some changes
+
 **This text will be bold** <br>
 __This will also be bold__ <br>
 
@@ -28,4 +30,3 @@ As Grace Hopper said:
 
 > I've always been more interested 
 > in the future than in the past.
-
