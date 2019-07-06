@@ -8,3 +8,9 @@ for (let i=0; i<10; i++) {
 
 console.log(loopText);
 
+document.body.style.backgroundColor = 'gray';
+
+document.getElementById('text').style.color = 'skyblue';
+document.getElementById('text').style.textAlign = 'center';
+document.getElementById('text').style.fontStyle = 'italic';
+document.getElementById('text').style.fontSize = '50px';
