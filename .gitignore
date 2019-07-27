@@ -1,2 +1,5 @@
 .idea
-.git-learning.iml
+*.iws
+*.iml
+*.ipr
+out
