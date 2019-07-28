@@ -16,3 +16,4 @@ document.getElementById('text').style.fontStyle = 'italic';
 document.getElementById('text').style.fontSize = '50px';
 
 console.log('Hello JS again!');
+console.log('Hello world!');
