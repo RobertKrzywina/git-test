@@ -19,6 +19,7 @@ console.log('Hello JS again!');
 console.log('Hello world!');
 console.log('Another hello JS!');
 console.log('Another hello world!');
+console.log('No commit message');
 
 for (let i=5; i>0; i--) {
     console.log(`i = ${i}`);
