@@ -24,3 +24,5 @@ console.log('No commit message');
 for (let i=5; i>0; i--) {
     console.log(`i = ${i}`);
 }
+
+console.log('Hello from rebase branch');
