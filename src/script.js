@@ -32,3 +32,4 @@ console.log('Another hello from rebase branch');
 console.log('force-with-lease');
 console.log('another force-with-lease');
 console.log('master master master');
+console.log('no fast forward merge test');
