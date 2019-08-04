@@ -30,3 +30,4 @@ console.log('Hello from rebase branch');
 console.log('Another hello from rebase branch');
 
 console.log('force-with-lease');
+console.log('another force-with-lease');
