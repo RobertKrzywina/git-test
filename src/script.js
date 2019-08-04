@@ -26,3 +26,4 @@ for (let i=5; i>0; i--) {
 }
 
 console.log('Hello from rebase branch');
+console.log('Another hello from rebase branch');
